@@ -2,7 +2,7 @@
     "products": [
         {
             "id": 1,
-            "imgUrl": "http://localhost:3000/products/1.jpg",
+            "imgUrl": "/products/1.jpg",
             "galleryUrl": ["http://localhost:3000/products/4.jpg", "http://localhost:3000/products/2.jpg", "http://localhost:3000/products/3.jpg"],
             "title": "Гутенберг Хуа Чжень Ло",
             "volume": 100,
