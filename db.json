@@ -15,8 +15,8 @@
             { "id": 4, "title": "возрастание цены", "type": "priceIncrease" }
           ]
         },
-        {"id": 1, "title": "Блог", "url": "/posts"},
-        {"id": 1, "title": "Контакты", "url": "/contacts"}
+        {"id": 3, "title": "Блог", "url": "/posts"},
+        {"id": 4, "title": "Контакты", "url": "/contacts"}
     ],
     "products": [
         {
