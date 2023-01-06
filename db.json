@@ -4,6 +4,7 @@
         {"id": 2, "title": "Магазин", "url": "/products",
           "filter": [
             { "id": 1, "title": "Все чаи", "type": "all'" }, 
+            { "id": 2, "title": "Красные", "type": "red" }, 
             { "id": 3, "title": "Зелёные", "type": "green" }, 
             { "id": 4, "title": "Белые", "type": "white" }
           ],
