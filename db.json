@@ -28,7 +28,7 @@
             "volumeMeasurement": "грамм",
             "currency": "руб.",
             "price": 500,
-            "category": "red",
+            "category": "Красные",
             "rating": 5,
             "property": {
                 "country": "Китай",
@@ -46,7 +46,7 @@
             "volumeMeasurement": "грамм",
             "currency": "руб.",
             "price": 600,
-            "category": "red",
+            "category": "Красные",
             "rating": 2,
             "property": {
                 "country": "Китай",
@@ -64,7 +64,7 @@
             "volumeMeasurement": "грамм",
             "currency": "руб.",
             "price": 700,
-            "category": "green",
+            "category": "Зелёные",
             "rating": 3,
             "property": {
                 "country": "Китай",
@@ -82,7 +82,7 @@
             "volumeMeasurement": "грамм",
             "currency": "руб.",
             "price": 800,
-            "category": "white",
+            "category": "Белые",
             "rating": 1,
             "property": {
                 "country": "Китай",
@@ -100,7 +100,7 @@
             "volumeMeasurement": "грамм",
             "currency": "руб.",
             "price": 800,
-            "category": "red",
+            "category": "Белые",
             "rating": 5,
             "property": {
                 "country": "Китай",
@@ -118,7 +118,7 @@
             "volumeMeasurement": "грамм",
             "currency": "руб.",
             "price": 800,
-            "category": "red",
+            "category": "Красные",
             "rating": 3,
             "property": {
                 "country": "Китай",
@@ -136,7 +136,7 @@
             "volumeMeasurement": "грамм",
             "currency": "руб.",
             "price": 450,
-            "category": "red",
+            "category": "Красные",
             "rating": 4,
             "property": {
                 "country": "Китай",
@@ -154,7 +154,7 @@
             "volumeMeasurement": "грамм",
             "currency": "руб.",
             "price": 550,
-            "category": "red",
+            "category": "Красные",
             "rating": 4,
             "property": {
                 "country": "Китай",
@@ -172,7 +172,7 @@
             "volumeMeasurement": "грамм",
             "currency": "руб.",
             "price": 850,
-            "category": "red",
+            "category": "Красные",
             "rating": 4,
             "property": {
                 "country": "Китай",
